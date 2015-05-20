@@ -1,0 +1,5 @@
+#mv --gitでファイル名の変更
+git mv oldname newname
+
+
+
